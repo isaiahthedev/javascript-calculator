@@ -1,3 +1,4 @@
+//I wrote this app in codepen and exported it to upload to github
 import React from "https://esm.sh/react";
 import ReactDOM from "https://esm.sh/react-dom";
 //javascript calculator
